@@ -13,7 +13,7 @@
   - Mensaje de entrada personalizado
   - Rtp completamente seguro y personalizado
   - Cooldowns
-- Para probar el plugin, MD en Discord
+> Para probar el plugin, MD en Discord
 
 ## Servicios plugins
 - Permito hacer todo tipo de plugins, siempre y cuando teniendo en cuenta de que el precio es variable.
